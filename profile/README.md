@@ -11,3 +11,5 @@ We Love Helping And Supporting The Open Source Libraries We Use In Our Projects,
 
 - Danijel Durakovic - mINI (INI file reader and writer) [https://github.com/metayeti/mINI]
     - Patched In Missing Explicit Copy Assignment Operator For `INIMap`. (v0.9.15)
+- Václav Šmilauer - bytesize (Simple header for parsing/formatting human-readable file sizes in c++) [https://github.com/eudoxos/bytesize]
+    - Created Fork To Replace Exceptions With std::optional Usage.
