@@ -2,8 +2,7 @@
 ## Support Us
 Here At MabelMedia, We Strive To Make The Best Software Possible, But We Can't Do It Without Your Support.
 
-To Support MabelMedia, You Can:
-- <a href="https://www.patreon.com/MabelisYT">Become A Patron</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y510D1T5)
 
 ## MabelMedia Gives Back To The FOSS Community
 
