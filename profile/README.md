@@ -8,4 +8,4 @@ Here At MabelMedia, We Strive To Make The Best Software Possible, But We Can't D
 
 We Love Helping And Supporting The Open Source Libraries We Use In Our Projects, Here's Some Examples:
 
-- There's Nothing Yet... Yet.
+- There's Nothing Here... Yet.
